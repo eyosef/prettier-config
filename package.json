@@ -1,6 +1,6 @@
 {
   "name": "@blue-raster/br-prettierjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Blue Raster Prettier Config",
   "main": "index.json",
   "keywords": [
@@ -9,12 +9,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/https://github.com/eyosef/br-prettier"
+    "url": "https://github.com/eyosef/br-prettier"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/https://github.com/eyosef/br-prettier",
+  "homepage": "https://github.com/eyosef/br-prettier",
   "author": "emesfun_blueraster",
   "license": "ISC"
 }
