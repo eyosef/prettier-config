@@ -1,5 +1,5 @@
 {
-  "name": "@eyosef/br-prettier",
+  "name": "@blue-raster/prettier-config",
   "version": "1.0.0",
   "description": "Blue Raster Prettier Config",
   "main": "index.json",
