@@ -4,9 +4,9 @@ module.exports = {
   useTabs: false,
   semi: true,
   singleQuote: true,
-  trailingComma: 'es5',
+  trailingComma: "es5",
   bracketSpacing: true,
   jsxBracketSameLine: false,
-  fluid: false,
   jsxSingleQuote: true,
-};
+  // fluid: false,
+}
