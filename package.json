@@ -1,0 +1,15 @@
+{
+  "name": "@eden/br-prettier",
+  "version": "1.0.0",
+  "description": "Blue Raster Prettier Config",
+  "main": "index.js",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
