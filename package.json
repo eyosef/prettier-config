@@ -1,5 +1,5 @@
 {
-  "name": "@blue-raster/prettier-config",
+  "name": "@blue-raster/br-prettierjs",
   "version": "1.0.0",
   "description": "Blue Raster Prettier Config",
   "main": "index.json",
@@ -14,5 +14,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/https://github.com/eyosef/br-prettier"
+  "homepage": "https://github.com/https://github.com/eyosef/br-prettier",
+  "author": "emesfun_blueraster",
+  "license": "ISC"
 }

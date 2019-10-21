@@ -1,0 +1,1 @@
+- This contains prettierJS config information, which can be used across projects
