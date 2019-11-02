@@ -20,26 +20,24 @@ npm install --save-dev @blue-raster/br-prettier
 
 ```
 
-3. Update `package.json` to reference the module;
+3. Reference this module in `prettier.config.js`;
 
-```.json
-{
-  // ...
-  "prettier": "@blue-raster/br-prettier"
-  // ...
+```javascript
+// prettier.config.js
+module.exports = {
+  ...require('@blue-raster/br-prettierjs'),
 }
 ```
 
 ## Customize this module
 
-1. Delete `"prettier": "@blue-raster/br-prettier"` in your `package.json`
-2. Create a `prettier.config.js` file, export the module and include the customizations
+1. Create a `prettier.config.js` file, export the module and include the customizations
    ⋅⋅⋅Note: customizing this file will override eslint customizations. That means there's no need to reference this module in your eslint config files.
 
 ```javascript
 // prettier.config.js
 module.exports = {
-  ...require("@blue-raster/br-prettierjs"),
+  ...require('@blue-raster/br-prettierjs'),
   tabWidth: 10,
 }
 ```

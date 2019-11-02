@@ -1,6 +1,6 @@
 {
   "name": "@blue-raster/br-prettierjs",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Blue Raster Prettier Config",
   "main": "index.json",
   "keywords": [
